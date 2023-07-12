@@ -9,8 +9,6 @@
 * For a comprehensive understanding of how to use ROCKAD, please refer to our detailed guide, [How to use ROCKAD](./docs/How_to_use_ROCKAD.ipynb).
 * Further information and complete results can be found on our dedicated website: [ml-and-vis.org/rockad](https://ml-and-vis.org/rockad).
 
----
-
 ## Getting Started: Installation Instructions 
 
 ROCKAD is compatible with both Windows and Linux platforms. If you encounter any issues during the installation process, please feel free to get in touch with us. 
