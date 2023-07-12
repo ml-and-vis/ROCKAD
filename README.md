@@ -13,7 +13,7 @@ Further information and complete results can be found on our dedicated website: 
 
 ## Getting Started: Installation Instructions 
 
-ROCKAD is compatible with both Windows and Linux platforms. If you encounter any issues during the installation process, please feel free to get in touch with our support team. 
+ROCKAD is compatible with both Windows and Linux platforms. If you encounter any issues during the installation process, please feel free to get in touch with us. 
 
 ### Windows and Linux 
 
