@@ -4,6 +4,7 @@
 > single and ensemble of k-nearest neighbors anomaly detectors to deduce an anomaly score. ROCKAD has been systematically evaluated for univariate time series and has also been
 > demonstrated to be applicable to multivariate time series.
 
+## General Information
 
 For a comprehensive understanding of how to use ROCKAD, please refer to our detailed guide, [How to use ROCKAD](./docs/How_to_use_ROCKAD.ipynb).
 
