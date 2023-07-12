@@ -14,7 +14,7 @@ feel free to contact us.
 
 *Mac/Apple Silicon*
 
-Unfortunately, some of the "all_extras" dependencies do not work on Mac silicon
+Unfortunately, some of the "all_extras" dependencies do not work on Apple silicon
 later than and on M1 Chips. Especially numba is causing problems. Therefore, we recommend
 to install the dependencies via the "macm1-requirements.txt" if you are using an apple product. 
 
