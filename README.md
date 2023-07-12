@@ -19,7 +19,7 @@ Installing ROCKAD on Windows and Linux should generally be trouble-free. If you 
 
 ### Mac/Apple Silicon
 
-For users with Apple products featuring the Apple Silicon (M1 Chips and later versions), please note that some dependencies from the "all_extras" package may not be compatible, particularly numba. We recommend installing the dependencies using the "macm1-requirements.txt" file.
+For users with Apple products featuring the Apple Silicon (M1 Chips and later versions), please note that some dependencies from the "sktime[all_extras]" package may not be compatible, particularly numba. We recommend installing the dependencies using the "macm1-requirements.txt" file.
 
 Additional steps may include setting up your Python environment using Python version 3.9.
 
