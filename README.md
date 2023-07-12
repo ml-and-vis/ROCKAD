@@ -6,9 +6,8 @@
 
 ## General Information
 
-For a comprehensive understanding of how to use ROCKAD, please refer to our detailed guide, [How to use ROCKAD](./docs/How_to_use_ROCKAD.ipynb).
-
-Further information and complete results can be found on our dedicated website: [ml-and-vis.org/rockad](https://ml-and-vis.org/rockad).
+* For a comprehensive understanding of how to use ROCKAD, please refer to our detailed guide, [How to use ROCKAD](./docs/How_to_use_ROCKAD.ipynb).
+* Further information and complete results can be found on our dedicated website: [ml-and-vis.org/rockad](https://ml-and-vis.org/rockad).
 
 ---
 
