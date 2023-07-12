@@ -1,25 +1,28 @@
+# ROCKAD: Transferring ROCKET to Whole Time Series Anomaly Detection
 
-# ROCKAD
+ROCKAD is a kernel-based approach for semi-supervised whole time series anomaly detection. 
 
-If you want to see how ROCKAD is used, we refer to the [How to use ROCKAD](./docs/How_to_use_ROCKAD.ipynb).
+ROCKAD is a kernel-based approach proposed for semi-supervised whole time series anomaly detection. ROCKAD employs ROCKET as an unsupervised feature extractor, training a single and ensemble of k-nearest neighbors anomaly detectors to deduce an anomaly score. ROCKAD has been systematically evaluated for univariate time series and has also been demonstrated to be applicable to multivariate time series.
 
-Corresponding details and all results will be available at https://ml-and-vis.org/rockad.
+
+For a comprehensive understanding of how to use ROCKAD, please refer to our detailed guide, [How to use ROCKAD](./docs/How_to_use_ROCKAD.ipynb).
+
+Further information and complete results can be found on our dedicated website: [ml-and-vis.org/rockad](https://ml-and-vis.org/rockad).
 
 ---
 
-## Installation
+## Getting Started: Installation Instructions 
 
-*Windows & Linux*
+ROCKAD is compatible with both Windows and Linux platforms. If you encounter any issues during the installation process, please feel free to get in touch with our support team. 
 
-There should be no problems with the installation on Windows and Linux. Otherwise,
-feel free to contact us.
+### Windows and Linux 
 
-*Mac/Apple Silicon*
+Installing ROCKAD on Windows and Linux should generally be trouble-free. If you do face any issues, please don't hesitate to contact us. 
 
-Unfortunately, some of the "all_extras" dependencies do not work with Apple Silicon, 
-later than and on M1 Chips. Especially numba is causing problems. Therefore, we recommend
-installing the dependencies via the "macm1-requirements.txt" if you are using an Apple product. 
+### Mac/Apple Silicon
 
-(Also, you may need to setup your python environment using python=3.9)
+For users with Apple products featuring the Apple Silicon (M1 Chips and later versions), please note that some dependencies from the "all_extras" package may not be compatible, particularly numba. We recommend installing the dependencies using the "macm1-requirements.txt" file.
 
-For more information, we refer to the [latest sktime documentation](https://www.sktime.net/en/latest/installation.html).
+Additional steps may include setting up your Python environment using Python version 3.9.
+
+For more detailed instructions, please refer to the [latest sktime documentation](https://www.sktime.net/en/latest/installation.html).
